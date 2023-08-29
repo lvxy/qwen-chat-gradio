@@ -13,7 +13,7 @@ conda create --name qwen-chat python=3.10
 conda activate qwen-chat
 
 ## 克隆项目
-git clone http:
+git clone https://github.com/lvxy/qwen-chat-gradio.git
 cd qwen-chat-gradio
 
 ## 安装依赖
