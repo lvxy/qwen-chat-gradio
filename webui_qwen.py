@@ -23,6 +23,7 @@ model.generation_config = GenerationConfig.from_pretrained("qwen/Qwen-7B-Chat",r
 title = """
     QWenChat
 """
+description = ''
 submit_btn = '发送'
 retry_btn = '🔄 重新生成'
 undo_btn = '↩️ 撤销'
